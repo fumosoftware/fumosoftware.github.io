@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+
+.pattern {
+  background-image: linear-gradient(320deg, #f1ecec 16px, transparent 18px), linear-gradient(40deg, #f1ecec 16px, transparent 18px);
+  background-size: 54px 30px;
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
