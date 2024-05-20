@@ -596,10 +596,6 @@ body {
   grid-column: span 1 / span 1;
 }
 
-.col-span-3 {
-  grid-column: span 3 / span 3;
-}
-
 .col-span-4 {
   grid-column: span 4 / span 4;
 }
@@ -616,10 +612,6 @@ body {
   grid-row: span 3 / span 3;
 }
 
-.m-5 {
-  margin: 1.25rem;
-}
-
 .m-6 {
   margin: 1.5rem;
 }
@@ -633,24 +625,12 @@ body {
   margin-bottom: 0.75rem;
 }
 
-.mb-5 {
-  margin-bottom: 1.25rem;
-}
-
 .mb-6 {
   margin-bottom: 1.5rem;
 }
 
 .mr-5 {
   margin-right: 1.25rem;
-}
-
-.mt-3 {
-  margin-top: 0.75rem;
-}
-
-.mt-5 {
-  margin-top: 1.25rem;
 }
 
 .mt-auto {
@@ -681,14 +661,6 @@ body {
   width: 1200px;
 }
 
-.w-full {
-  width: 100%;
-}
-
-.max-w-5xl {
-  max-width: 64rem;
-}
-
 .flex-grow {
   flex-grow: 1;
 }
@@ -705,24 +677,12 @@ body {
   align-content: flex-end;
 }
 
-.gap-6 {
-  gap: 1.5rem;
-}
-
 .gap-3 {
   gap: 0.75rem;
 }
 
 .rounded-xl {
   border-radius: 0.75rem;
-}
-
-.border-2 {
-  border-width: 2px;
-}
-
-.border-4 {
-  border-width: 4px;
 }
 
 .border-8 {
@@ -741,10 +701,6 @@ body {
   border-style: dashed;
 }
 
-.border-dotted {
-  border-style: dotted;
-}
-
 .border-chalkboardbrown {
   --tw-border-opacity: 1;
   border-color: rgb(183 130 64 / var(--tw-border-opacity));
@@ -760,19 +716,9 @@ body {
   background-color: rgb(38 73 65 / var(--tw-bg-opacity));
 }
 
-.bg-cirnoblue {
-  --tw-bg-opacity: 1;
-  background-color: rgb(49 140 228 / var(--tw-bg-opacity));
-}
-
 .bg-cirnoblue2 {
   --tw-bg-opacity: 1;
   background-color: rgb(63 117 219 / var(--tw-bg-opacity));
-}
-
-.bg-cirnored {
-  --tw-bg-opacity: 1;
-  background-color: rgb(190 51 10 / var(--tw-bg-opacity));
 }
 
 .bg-cirnowhite {
@@ -782,20 +728,6 @@ body {
 
 .p-3 {
   padding: 0.75rem;
-}
-
-.px-8 {
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.py-2 {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-
-.text-center {
-  text-align: center;
 }
 
 .text-right {
@@ -809,11 +741,6 @@ body {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 
 .text-9xl {
