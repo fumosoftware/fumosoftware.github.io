@@ -16,6 +16,9 @@ module.exports = {
     fontFamily: {
       'chalk': ['"Walter Turncoat"',],
       'logo': ['"Titan One"'],
+    },
+    backgroundImage: {
+      'cirnoImg': "url('../banners/cirno-comm-dx-white.png')"
     }
   },
   plugins: [],
